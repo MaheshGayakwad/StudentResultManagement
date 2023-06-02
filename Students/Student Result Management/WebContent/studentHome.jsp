@@ -3,7 +3,7 @@
 
 <img src="logo.png"  align="left"width="120" height="120">
 <center><img src="logo1.png" width="200" height="200">
-<img src="apj sir.png" align="right"  width="150" height="150"></center>
+<img src="ahilyaBai.png" align="right"  width="150" height="150"></center>
     <a href="dgiOneView.html">Back</a>
   <hr class="new1">
 <style>

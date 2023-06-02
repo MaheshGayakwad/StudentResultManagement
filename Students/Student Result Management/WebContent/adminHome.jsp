@@ -5,7 +5,7 @@
 <body>
 <img src="logo.png"  align="left"width="100" height="100">
 <center><img src="logo1.png" width="200" height="200">
-<img src="apj sir.png" align="right"  width="100" height="100"></center>
+<img src="ahilyaBai.png" align="right"  width="100" height="100" margin-top = "50px"></center>
 <div class="w3-container">
   <div class="w3-bar w3-black">
     <button class="w3-bar-item w3-button tablink w3-red" onclick="openCity(event,'London')">Add New Student</button>
