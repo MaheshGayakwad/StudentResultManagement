@@ -1,11 +1,12 @@
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
 body{
-  background: -webkit-linear-gradient(left, #25c481, #25b7c4);
-  background: linear-gradient(to right, #25c481, #25b7c4);
+ background-image: radial-gradient(circle, #6596e0, #4e72be, #3a4f9c, #292d7a, #180a57);
   font-family: 'Roboto', sans-serif;
   
-}body{
+}
+
+body{
     margin: 0;
     padding: 0;
     background-size: cover;
@@ -23,6 +24,7 @@ body{
     left: 50%;
     position: absolute;
     transform: translate(-50%,-50%);
+    box-shadow : 5px 5px 50px black;
    box-sizing: border-box; 
     padding: 70px 30px;
 }
@@ -72,7 +74,7 @@ h1{
 .login-box input[type="submit"]:hover
 {
     cursor: pointer;
-    background: #39dc79;
+    background:red;
     color: #000;
 }
 
@@ -83,7 +85,7 @@ h1{
 }
 .login-box a:hover
 {
-    color: #39dc79;
+    color: #180A57
 }
 h2
 {

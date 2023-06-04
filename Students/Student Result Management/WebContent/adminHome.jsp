@@ -15,7 +15,7 @@
      <a href="adminLogin.html" class="w3-bar-item w3-button tablink">Logout</a>
   </div>
   
-  <div id="London" class="w3-container w3-border city">
+  <div id="London" class="w3-container w3-border city" >
   <br>
    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
@@ -42,9 +42,9 @@
 </head>
 <body>
 <main class="my-form">
-    <div class="cotainer">
-        <div class="row justify-content-center">
-            <div class="col-md-8">
+    <div class="cotainer" ">
+        <div class="row justify-content-center" style = "border:0px solid black" >
+            <div class="col-md-8"  style="color:white;font-weight : bold ; background-image: radial-gradient(circle, #6596e0, #4e72be, #3a4f9c, #292d7a, #180a57);;>
                     <div class="card">
                         <div class="card-header">Add New Students</div>
                         <div class="card-body">
@@ -137,15 +137,15 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 
 </head>
-<body>
+<body >
 
 
 
-<main class="my-form">
+<main class="my-form" >
     <div class="cotainer">
         <div class="row justify-content-center">
             <div class="col-md-8">
-                    <div class="card">
+                    <div class="card" style = " font-weight : bold;color:white;background-image: radial-gradient(circle, #6596e0, #4e72be, #3a4f9c, #292d7a, #180a57);">
                         <div class="card-header">Insert New Result</div>
                         <div class="card-body">
                             <form name="my-form" onsubmit="return validform()" action="result.jsp" method="post">
@@ -364,8 +364,7 @@
 
 </div>
     <hr class="new1">
-  <center><h5>Lorem espium lorem Lorem espium loremLorem espium loremLorem espium lorem
-   Lorem espium loremh5></center>
+  <center><h5>We will make you into something new.<h5></center>
   <hr class="new1">
 <center><h5>All Right Reserved @ Mahesh Gayakwad :: 2023 - Present</h5></center> 
   <hr class="new1">
